@@ -1,0 +1,26 @@
+BEGIN aaroncot
+NAME: Aaron Cote
+PASSWORD: 149e9677a5989fd342ae44213df68868
+ADDRESS: USC
+CREDIT: 313504a076c59e57f1e75c1bce216bfe
+MOVIE: How to Not Fail out of College
+BEGIN QUEUE
+City Lights
+The Hobbit: The Desolation of Smaug
+City Lights
+END QUEUE
+BEGIN RATINGS
+4 The Lord of the Rings: The Return of the King 
+1 Battlefield Earth
+5 The Shawshank Redemption
+2 The Hobbit: An Unexpected Journey
+2 The Hobbit: The Desolation of Smaug
+3 City Lights
+END RATINGS
+END
+BEGIN mnshukla95
+NAME: Manish Shukla
+PASSWORD: c378985d629e99a4e86213db0cd5e70d
+ADDRESS: 5409 Ontario Common
+CREDIT: 781e5e245d69b566979b86e28d23f2c7
+END
